@@ -8,7 +8,7 @@
 
 * <img src = 'https://badges.aleen42.com/src/javascript.svg'> 
 *  <img alt = 'react' src = "https://badges.aleen42.com/src/react.svg">
-* <img alt = 'node' src = https://badges.aleen42.com/src/node.svg'>
+* <img src = 'https://badges.aleen42.com/src/node.svg'>
 * ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Como instalar o projeto:
