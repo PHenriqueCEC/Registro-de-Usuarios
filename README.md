@@ -48,8 +48,6 @@ $ cd web
 $ npm install
 ```
 
-```
-
 7) Para rodar o projeto utilize o comando abaixo:
 
 ```
